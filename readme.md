@@ -1,11 +1,14 @@
 #Installing 
+##Install npm modules
 ```
 $ npm install
 ```
-The following command should be ran just once to create and populate db.
+##Create and populate db
+The following command should be ran just once.
 ```
 $ node models/database.js 
 ```
+##Run the app
 ```
 $ node app.js
 ```
