@@ -12,3 +12,4 @@ $ node models/database.js
 ```
 $ node app.js
 ```
+Query: http://localhost:3000/users
